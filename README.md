@@ -1,6 +1,6 @@
 # Learn-Python
 <h2>Completed---
- <h3>  1. Basics
+ <h3>  1. Basics(https://github.com/AdityaPatil001/Learn-Python/tree/main/Basic)
  <h3>  2. Strings
  <h3>  3. Numbers
  <h3>  4. Input From Users

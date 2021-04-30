@@ -8,6 +8,5 @@
  * [Mad Libs : Game](https://github.com/AdityaPatil001/Learn-Python/tree/main/Mad%20Libs)
  * [Lists](https://github.com/AdityaPatil001/Learn-Python/tree/main/Lists)
  
-
  ## Target---
  * Create a Game!

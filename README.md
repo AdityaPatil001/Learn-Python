@@ -1,1 +1,13 @@
 # Learn-Python
+<h2>Completed---
+ <h3>  1. Basics
+ <h3>  2. Strings
+ <h3>  3. Numbers
+ <h3>  4. Input From Users
+ <h3>  5. Basic Calculator
+ <h3>  6. Mad Libs : Game
+ <h3>  7. Lists
+ <h3>
+
+ <h1> Target---
+ <h2> Create a Game!

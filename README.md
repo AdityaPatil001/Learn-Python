@@ -1,13 +1,13 @@
 # Learn-Python
 ## Completed---
- [Basics](https://github.com/AdityaPatil001/Learn-Python/tree/main/Basic)
- <h3>  2. Strings
- <h3>  3. Numbers
- <h3>  4. Input From Users
- <h3>  5. Basic Calculator
- <h3>  6. Mad Libs : Game
- <h3>  7. Lists
- <h3>
+ * [Basics](https://github.com/AdityaPatil001/Learn-Python/tree/main/Basic)
+ * [Strings](https://github.com/AdityaPatil001/Learn-Python/tree/main/Strings)
+ * [Numbers](https://github.com/AdityaPatil001/Learn-Python/tree/main/Numbers)
+ * [Input From Users](https://github.com/AdityaPatil001/Learn-Python/tree/main/Input%20From%20Users)
+ * [Basic Calculator](https://github.com/AdityaPatil001/Learn-Python/tree/main/Basic%20Calulator)
+ * [Mad Libs : Game](https://github.com/AdityaPatil001/Learn-Python/tree/main/Mad%20Libs)
+ * [Lists](https://github.com/AdityaPatil001/Learn-Python/tree/main/Lists)
+ 
 
- <h1> Target---
- <h2> Create a Game!
+ ## Target---
+ * Create a Game!

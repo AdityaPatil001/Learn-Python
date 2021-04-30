@@ -5,7 +5,7 @@
  * [Numbers](https://github.com/AdityaPatil001/Learn-Python/tree/main/Numbers)
  * [Input From Users](https://github.com/AdityaPatil001/Learn-Python/tree/main/Input%20From%20Users)
  * [Basic Calculator](https://github.com/AdityaPatil001/Learn-Python/tree/main/Basic%20Calulator)
- * [Mad Libs : Game](https://github.com/AdityaPatil001/Learn-Python/tree/main/Mad%20Libs)
+ * [Mad Libs : Games](https://github.com/AdityaPatil001/Learn-Python/tree/main/Mad%20Libs)
  * [Lists](https://github.com/AdityaPatil001/Learn-Python/tree/main/Lists)
  
  ## Target---

@@ -7,6 +7,6 @@
  * [Basic Calculator](https://github.com/AdityaPatil001/Learn-Python/tree/main/Basic%20Calulator)
  * [Mad Libs : Games](https://github.com/AdityaPatil001/Learn-Python/tree/main/Mad%20Libs)
  * [Lists](https://github.com/AdityaPatil001/Learn-Python/tree/main/Lists)
- 
+ * [List Functions](https://github.com/AdityaPatil001/Learn-Python/tree/main/List%20Functions)
  ## Target---
  * Create a Game!

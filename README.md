@@ -8,5 +8,11 @@
  * [Mad Libs : Games](https://github.com/AdityaPatil001/Learn-Python/tree/main/Mad%20Libs)
  * [Lists](https://github.com/AdityaPatil001/Learn-Python/tree/main/Lists)
  * [List Functions](https://github.com/AdityaPatil001/Learn-Python/tree/main/List%20Functions)
+ * [Tuples](https://github.com/AdityaPatil001/Learn-Python/tree/main/Tuples)
+ * [Functions](https://github.com/AdityaPatil001/Learn-Python/tree/main/Functions)
+ * [Better Calculator](https://github.com/AdityaPatil001/Learn-Python/tree/main/Better%20Calculator)
+ * [Dictionaries](https://github.com/AdityaPatil001/Learn-Python/tree/main/Dictionaries)
+ * [Loops](https://github.com/AdityaPatil001/Learn-Python/tree/main/Loops)
+ * [Guessing Game](https://github.com/AdityaPatil001/Learn-Python/tree/main/Guessing%20Game)
  ## Target---
  * Create a Game!

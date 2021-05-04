@@ -1,0 +1,7 @@
+Tom - Salesman
+Sam - Salesman
+Rick - Receptionist
+Kevin - Manager
+Ben - Accountant
+Dan - Customer Service
+Max - Human Resource

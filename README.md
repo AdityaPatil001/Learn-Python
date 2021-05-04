@@ -14,5 +14,12 @@
  * [Dictionaries](https://github.com/AdityaPatil001/Learn-Python/tree/main/Dictionaries)
  * [Loops](https://github.com/AdityaPatil001/Learn-Python/tree/main/Loops)
  * [Guessing Game](https://github.com/AdityaPatil001/Learn-Python/tree/main/Guessing%20Game)
+ * [Exponent](https://github.com/AdityaPatil001/Learn-Python/tree/main/Exponent)
+ * [2D lists And Nested loops](https://github.com/AdityaPatil001/Learn-Python/tree/main/2D%20lists%20%26%20Nested%20Loops)
+ * [Translator](https://github.com/AdityaPatil001/Learn-Python/tree/main/Translator)
+ * [Comments](https://github.com/AdityaPatil001/Learn-Python/tree/main/Comments)
+ * [Try And Except](https://github.com/AdityaPatil001/Learn-Python/tree/main/Try%20And%20Except)
+ * [Reading Files](https://github.com/AdityaPatil001/Learn-Python/tree/main/Reading%20Files)
+ * [Writing to Files](https://github.com/AdityaPatil001/Learn-Python/tree/main/Writing%20To%20Files)
  ## Target---
  * Create a Game!

@@ -21,5 +21,9 @@
  * [Try And Except](https://github.com/AdityaPatil001/Learn-Python/tree/main/Try%20And%20Except)
  * [Reading Files](https://github.com/AdityaPatil001/Learn-Python/tree/main/Reading%20Files)
  * [Writing to Files](https://github.com/AdityaPatil001/Learn-Python/tree/main/Writing%20To%20Files)
+ * [Modules And Pips](https://github.com/AdityaPatil001/Learn-Python/tree/main/Modules%20And%20Pips)
+ * [Classes and Objects](https://github.com/AdityaPatil001/Learn-Python/tree/main/Classes%20And%20Objects)
+ * [Multiple Choice Questions Game](https://github.com/AdityaPatil001/Learn-Python/tree/main/Multiple%20Choice%20Questions%20Game)
  ## Target---
- * Create a Game!
+ * Finish the Beginner course
+ #Target Completed!

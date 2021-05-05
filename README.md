@@ -26,4 +26,4 @@
  * [Multiple Choice Questions Game](https://github.com/AdityaPatil001/Learn-Python/tree/main/Multiple%20Choice%20Questions%20Game)
  ## Target---
  * Finish the Beginner course
- #Target Completed!
+ --Target Completed!
